@@ -1,19 +1,18 @@
-import React from 'react'
-
-
+import React from "react";
+import AcUnitIcon from "@mui/icons-material/AcUnit";
 
 const Footer = () => {
   return (
     <>
-    <footer>
+      <footer>
         <div class="social-icons">
-            <h1>Created by KithusiBrian04</h1>
-            <h2>React.js x WeatherAPI</h2>
+          <h1>Created by KithusiBrian04</h1>
+          <h2>React.js x WeatherAPI</h2>
+          <AcUnitIcon />
         </div>
-    </footer>
+      </footer>
     </>
-    
-  )
-}
+  );
+};
 
-export default Footer
+export default Footer;

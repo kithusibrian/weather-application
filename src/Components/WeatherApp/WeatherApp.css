@@ -88,5 +88,18 @@
 .icon{
     margin-top: 10px;
 }
+.sembii  {
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    color:aqua;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
 
+    text-decoration: wavy;
+    
+    
+
+}
 
