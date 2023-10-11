@@ -1,10 +1,12 @@
-# Getting Started with Create React App
+# A weather Application created with react JS
+created by @Brian Kithusi 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
+### Run npm install to install all the dependencies
 
 ### `npm start`
 
